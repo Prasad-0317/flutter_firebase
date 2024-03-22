@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276474117486",
+    "project_id": "sign-in-b1915",
+    "storage_bucket": "sign-in-b1915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276474117486:android:f83ea535227c125010957f",
+        "android_client_info": {
+          "package_name": "com.news.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMqugxzcUvT40ceW4kUh_HlU2bz52wYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
